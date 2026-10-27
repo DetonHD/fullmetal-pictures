@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fullmetalpictures.vercel.app/sitemap.xml
